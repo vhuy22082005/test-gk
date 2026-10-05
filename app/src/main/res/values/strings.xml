@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Layout RecyclerView</string>
+    <string name="tab_linear">Danh Sách (Linear)</string>
+    <string name="tab_grid">Lưới (Grid)</string>
+    <string name="tab_staggered">Bất Đối Xứng (Staggered)</string>
+    <string name="item_image_desc">Hình ảnh sản phẩm</string>
+</resources>
